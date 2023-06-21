@@ -36,3 +36,4 @@ Add https:// + rpc node + “..jsonrpc.sp1.sagarpc.io”
 ex:https://sneakerhunt-1685370732045988-1.jsonrpc.sp1.sagarpc.io
 Make sure you add your chainlet to “mainnet” on Metamask go to the left on settings and ensure you have the same chainID in the Network ID in Thirdweb “Add Custom Network” you should name it “yourchainletname+mainnet” for network type select Mainnet and add your rpc url from step 1. Along with Currency symbol and an Image if you have one* then click “Add Network”
 Deploy your contracts: NFT Collection, ERC1155 Edition, Pack, Marketplace.
+SneakerGO [Sample Game] is now on @DoraHacks! Read more about this project - its vision, team, product updates on: https://dorahacks.io/buidl/6545
