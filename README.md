@@ -1,14 +1,14 @@
 # sneakergo
 Step 1: Use Cli to upload Assets. Create Sneaker Cards
 Deploy separate Contracts for Each Asset in Sneaker collection: ERC1155 Edition
-Const Heel.sol contract address =
-Const Sole.sol contract address = 
-Const Laces.sol contract address =
-Const Upper.sol contract address =
-Const panels.sol contract address =
-Const Vamp.sol contract address = 
-Const Logo.sol contract address =
-Const SerialNumber.sol contract address =
+Const Heel.sol contract address =0x241f87E7112BCA7E919d4f1842f399995a0adbd8
+Const Sole.sol contract address = 0xB2e01A55228D9b2c5a3DF14139372E1A4A122c05
+Const Laces.sol contract address = 0x587412e3B7245ee58E1f0D07F3B9D3cD1418221A
+Const Upper.sol contract address = 0x917685185174530C62d5Ad591d36BE85f3c18f3F
+Const panels.sol contract address = 0xC2a576e8778AE79A60E3142DE210EBA8f85d6dcd
+Const Vamp.sol contract address = 0x5B9012ea223A9C312132055b3F61bf4Ba8EFf9cF
+Const Logo.sol contract address = 0x39F19F1343C738cE80414f1ef1b0d2134D300f6F
+Const SerialNumber.sol contract address = 0x98d2f5ad4d39c1A688F05f4d42dC2FA78397DceA
 
 
 Step 2: Deploy Marketplace to List Items to purchase Registry Index. Buy Listings on Sneaker Marketplace: Marketplace contract address on my chainlet:0x6dd68485d463B57BF4ad649D36c2c16DA50e2925
