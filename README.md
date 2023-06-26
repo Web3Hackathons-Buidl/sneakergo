@@ -110,6 +110,18 @@ In addition to the enhanced security and trust provided by SneakerGo, the platfo
 
 We invite you to explore SneakerGo and experience the future of sneaker trading. The platform's open-source nature allows contributions from the community, ensuring continuous improvement and innovation. Join us in revolutionizing the sneaker industry and creating a more secure and transparent marketplace.
 
+SneakerCred utilizes ERC1155 to Manufature 'MyTeamCards', 'MyCareer', & Virtual Currency for Video Games such as 'NBA2K' series. The purpose of this project is to allow game users to be the custodians for their in-game Assets using their Wallet and also able to trade them on a decentralized exchange.
+
+Tokenization of Sports Assets in Gaming Or “Tokenized In Game Assets” NBA2K NFT collectibles & Esport exchange Smart Contract
+
+“This is for NBA2K Game participants to have the ability to Trade Sneakers in game for Boost Points in play making actions. *Ewing only has Nikes but can add Reeboks Under Armour- UI: in line up screen go to add a shoe, if only shows one brand… Go to your shoe collection Apply to player + Add More!
+
+Application layer NFT Shoes +Boosts Points ERC 20 Tokens
+
+“The players will be able to walk their created character into a virtual foot locker and shop for a new pair of kicks in the [Run the Neighborhood] (Game Mode)
+
+Technology Full Stack Ethereum Development Solidity Smart Contract Architecture ERC 1155 Token Factory libraries “Inheritance” Web3.Swift ios mobile Ethereum Development
+
 ## License
 
 SneakerGo is released under the [MIT License](LICENSE).
