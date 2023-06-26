@@ -120,7 +120,13 @@ Application layer NFT Shoes +Boosts Points ERC 20 Tokens
 
 “The players will be able to walk their created character into a virtual foot locker and shop for a new pair of kicks in the [Run the Neighborhood] (Game Mode)
 
-Technology Full Stack Ethereum Development Solidity Smart Contract Architecture ERC 1155 Token Factory libraries “Inheritance” Web3.Swift ios mobile Ethereum Development
+Technology Full Stack Ethereum Development Solidity Smart Contract Architecture ERC 1155 Token Factory libraries “Inheritance” Making the player and object that has metadata Mapping the Struct to the Badges as an Index in storage Listing the player functionality as a String Attributes Player Position Points Badges Trade Value
+
+Extract the players sneakers and the associated Boost Power of the shoes as a token class
+
+Boost Points Player Badges
+
+
 
 ## License
 
